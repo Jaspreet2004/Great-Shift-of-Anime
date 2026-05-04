@@ -1,0 +1,9 @@
+Ethics & Limitations
+
+One potential bias in our data is that it is based on user ratings from MAL which could
+have different preferences and habits from other anime communities. The analysis is 
+limited by being unable to see the amount of people that have added any specific anime
+to their list. We are unable to see the difference between how many users had a specific 
+anime on their list in 2015 and compare it to now. A realistic next step or improvement
+would be further expanding the data to beyond the top 1000 anime by rating as well as
+including more datasets from other websites that are similar to MAL. 
