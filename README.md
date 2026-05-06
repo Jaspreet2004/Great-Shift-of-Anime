@@ -28,3 +28,5 @@ Future improvements could involve expanding the dataset beyond the top 1,000 ani
 2. If running the API collection scripts, a valid MyAnimeList API Client ID must be provided.
 3. You can either generate fresh data by running the collector scripts or analyze the provided `.csv` files.
 4. Run the Python scripts (`.py`) or open the Jupyter Notebooks (`.ipynb`) to view the statistics and visualizations.
+
+<img width="4608" height="3456" alt="The Great Shift of Anime Poster (1)" src="https://github.com/user-attachments/assets/27931901-7f08-46a7-bbb0-db5f4bc33c6d" />
